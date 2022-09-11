@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(237, 206, 206);
+    background-color: rgb(163, 157, 157);
     display: flex;
     justify-content: center;
     height: 100vh;
@@ -7,9 +7,6 @@ body{
 }
 
 
-#main {
-    color: rgb(113, 107, 107);
-}
 
 .txt{
     color:black;
